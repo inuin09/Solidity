@@ -1,3 +1,3 @@
-# Solidity && Dapp
+# Solidity & Dapp
 
 
